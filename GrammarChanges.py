@@ -29,7 +29,7 @@ emb = NewsEmbedding()
 morph_tagger = NewsMorphTagger(emb)
 
 model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
-login(token='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')
+login(token='USE YOUR HUGGINGFACE TOKEN HERE')
 
 
 
